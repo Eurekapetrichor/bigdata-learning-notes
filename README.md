@@ -559,4 +559,4 @@
 * [mac 自动登录服务器](note/mac/自动登录服务器.md)
 * [mac oh-my-zsh](note/mac/ohmyzsh.md)
 </details>
-
+https://github.com/kinoxyz1/bigdata-learning-notes
